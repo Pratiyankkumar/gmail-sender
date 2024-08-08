@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 If everything is set up correctly, the email will be sent, and you'll see a success message in the console.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](./license) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
